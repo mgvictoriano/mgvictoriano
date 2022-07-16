@@ -1,8 +1,9 @@
-### Hi there 👋
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
 
-## I'm Michelle :)
-
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 - 😄 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Analysis and Systems Development at Universidade Anhembi Morumbi (Brazil).
@@ -25,7 +26,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   
-#### 👉 Frameworks
+#### 🌱 Frameworks
 <p align="left">
   
   &emsp;&ensp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
@@ -45,6 +46,18 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
+  
+  #### 👉 Software & Tools
+  <p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    
+  
+  
   
 <!--
 **mgvictoriano/mgvictoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,4 +79,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
+    
+    
+<br>
+<a><img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square)
+
+  #### <h1><p align ="center"> Show some ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my Repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
+
+ 
  
