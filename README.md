@@ -3,22 +3,24 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
 
-### 💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About Me:  </h2>
 
-- 😄 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 💻 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Analysis and Systems Development at Universidade Anhembi Morumbi (Brazil).
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack:
 
 #### 🌐 Programming languages &nbsp;
 <p align="left">
-  &emsp;
+&emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
-  &emsp;
- 
+&emsp;<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen "/>
+  </a> 
+&emsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+  
 #### 🛢 Databases & Cloud Hosting &nbsp;
 <p align="left">
   &emsp;
@@ -33,18 +35,23 @@
   &emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
 
 #### ⚡ Graphic Designing
+  <p align="left">
+  &emsp; 
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>
+  </a>   
 <p align="left">
   &emsp;  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+  <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
   </a>
     &emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
   
   #### 👉 Software & Tools
@@ -74,19 +81,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Stats
+## My Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
     
+ 
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
     
+  <a href="https://www.linkedin.com/in/michelle-victoriano/" target="blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    
+ 
 <br>
 <a><img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square)
 
-  #### <h1><p align ="center"> Show some ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my Repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
+<h3><p align ="center"> Show some ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
 
  
  
