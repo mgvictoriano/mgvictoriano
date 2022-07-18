@@ -35,7 +35,7 @@
 #### 🌱 Frameworks
 <p align="left">
   
-  &emsp;&ensp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+  &emsp;&ensp;![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
   &emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
   &emsp;&ensp;![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=black)
 
