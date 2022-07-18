@@ -93,12 +93,14 @@ Here are some ideas to get you started:
     
  
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
+<p align="center">
+	        <a href="https://github.com/mgvictoriano"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+          <a href="https://www.linkedin.com/in/michelle-victoriano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+          <a href="https://www.instagram.com/mvictorianoadv/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
     
-  <a href="https://www.linkedin.com/in/michelle-victoriano/" target="blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
     
- 
+
 <br>
 <a><img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" alt="GitHub Badge"></a>
 
