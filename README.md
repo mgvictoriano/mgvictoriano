@@ -88,11 +88,16 @@ Here are some ideas to get you started:
 
 ## My Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
-    
- 
+	  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+	  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
+	  
+[![Michelle's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+   
+ <!-- &layout=compact
+-->
+	  
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 <p align="center">
 	        <a href="https://github.com/mgvictoriano"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
