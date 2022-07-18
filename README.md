@@ -5,9 +5,10 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About Me:  </h2>
 
-- 💻 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Analysis and Systems Development at Universidade Anhembi Morumbi (Brazil).
-
+- 🌏 &nbsp; From Brazil to the world
+- 💻 &nbsp; Exploring new technologies
+- 🎓 &nbsp; Studying Analysis and Systems Development at Universidade Anhembi Morumbi
+- 📚 &nbsp; Currently learning everthing 🤣
 
 ## 🛠 &nbsp;Tech Stack:
 
