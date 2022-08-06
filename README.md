@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 	  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
 
-<a href="https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce"><img src="https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg" alt="Total time coded since Jul 16 2022" /></a>
+[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
 
    
  <!-- &layout=compact
