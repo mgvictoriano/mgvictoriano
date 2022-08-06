@@ -92,7 +92,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 	  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
-	  
+
+<a href="https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce"><img src="https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg" alt="Total time coded since Jul 16 2022" /></a>
 
    
  <!-- &layout=compact
