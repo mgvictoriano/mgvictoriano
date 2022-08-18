@@ -14,13 +14,12 @@
 
 #### 🌐 Programming languages &nbsp;
 <p align="left">
-&emsp;&ensp;  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  </a>
 	
- &emsp;&ensp;<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white "/>  </a> 
+&emsp;&ensp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  </a>
+	
+&emsp;&ensp; <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white "/>  </a> 
  
-&emsp;&ensp;<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen "/>
-  </a> 
+&emsp;&ensp; <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen "/> </a> 
 
   
 #### 🛢 Databases & Cloud Hosting &nbsp;
@@ -30,15 +29,15 @@
 
 &emsp;&ensp; <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white "></a>
   
- &emsp;&ensp; <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+&emsp;&ensp; <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   
   
 #### 🌱 Frameworks
 <p align="left">
 	
-  &emsp;&ensp; ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
+ &emsp;&ensp; ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
 	
-  &emsp;&ensp; ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
+ &emsp;&ensp; ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
 
 
 #### ⚡ Graphic Designing
