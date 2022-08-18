@@ -14,59 +14,53 @@
 
 #### 🌐 Programming languages &nbsp;
 <p align="left">
-&emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white "/>
-  </a> 
-&emsp;<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen "/>
+&emsp;&ensp;  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  </a>
+	
+ &emsp;&ensp;<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white "/>  </a> 
+ 
+&emsp;&ensp;<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen "/>
   </a> 
 
   
 #### 🛢 Databases & Cloud Hosting &nbsp;
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white "></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+
+&emsp;&ensp; <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
+
+&emsp;&ensp; <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white "></a>
+  
+ &emsp;&ensp; <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  
   
 #### 🌱 Frameworks
 <p align="left">
-  
-  &emsp;&ensp;![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
-  &emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
-  &emsp;&ensp;![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=black)
+	
+  &emsp;&ensp; ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
+	
+  &emsp;&ensp; ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
+
 
 #### ⚡ Graphic Designing
   <p align="left">
-  &emsp; 
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>
-  </a>   
-<p align="left">
-  &emsp;  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-  <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
+ &emsp;&ensp;  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  </a>   
+
+ &emsp;&ensp;  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>  </a> 
+	  
+ &emsp;&ensp;  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/> </a>
+	  
+  &emsp;&ensp; <a href="#">  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/> </a>
   
+	  
   #### 👉 Software & Tools
-  <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+ <p align="left">
+&emsp;&ensp;  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+	 
+&emsp;&ensp;  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+	 
+&emsp;&ensp;  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
     
   
   
