@@ -7,7 +7,7 @@
 
 - 🌏 &nbsp; From Brazil to the world
 - 💻 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Studying Analysis and Systems Development at Universidade Anhembi Morumbi
+- 🎓 &nbsp; Back-end developer and student
 - 📚 &nbsp; Currently learning everthing 🤣
 
 ## 🛠 &nbsp;Tech Stack:
