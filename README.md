@@ -32,13 +32,13 @@
 #### 🌱 Frameworks
 <p align="left">
 	
- &emsp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
+&emsp; ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
 	 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
 
 
 #### ⚡ Graphic Designing
   <p align="left">
- &emsp; <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+	  &emsp; <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  </a>   
 	  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>  </a> 
@@ -48,7 +48,7 @@
 	  
   #### 👉 Software & Tools
  <p align="left">
-&emsp;&ensp;  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+&emsp; <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
 	  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	 
  
