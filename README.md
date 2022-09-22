@@ -6,8 +6,8 @@
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About Me:  </h2>
 
 - 🌏 &nbsp; From Brazil to the world
-- 💻 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Back-end developer and student
+- 💻 &nbsp; Exploring new technologies and playing some game in my leisure time 👾
+- 🎓 &nbsp; Lawyer yesterday, Software Developer today 💘
 - 📚 &nbsp; Currently learning everthing 🤣
 
 ## 🛠 &nbsp;Tech Stack:
