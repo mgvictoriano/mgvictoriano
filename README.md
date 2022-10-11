@@ -18,6 +18,8 @@
 	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</p>
   
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; -->
 <p align="left">
@@ -27,7 +29,7 @@
 <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white " />
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" />
 <img alt="Docke"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
- 
+ </p>
   
 <!-- #### 🌱 Frameworks -->
 <p align="left">
@@ -39,23 +41,24 @@
 ![HTML5](https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=JQuery&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.JS&logoColor=white) 
-
+</p>
 
 <!-- #### ⚡ Graphic Designing -->
-  <p align="left">
+ <p align="left">
 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> 
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
- 
+</p>
 	  
  <!-- #### 👉 Software & Tools -->
 <p align="left">
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	 
+<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> 
+</p> 
  
   
   
@@ -89,9 +92,10 @@ Here are some ideas to get you started:
 	  
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 <p align="center">
-	        <a href="https://github.com/mgvictoriano"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-          <a href="https://www.linkedin.com/in/michelle-victoriano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-          <a href="https://www.instagram.com/mvictorianoadv/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	
+<a href="https://github.com/mgvictoriano"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/michelle-victoriano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/mvictorianoadv/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
     
     
