@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
@@ -12,7 +13,7 @@
 
 ## 🛠 &nbsp;Tech Stack:
 
-#### 🌐 Programming languages &nbsp;
+<!-- #### 🌐 Programming languages &nbsp; -->
 <p align="left">
 	
 &emsp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  </a>
@@ -21,7 +22,7 @@
 
 
   
-#### 🛢 Databases & Cloud Hosting &nbsp;
+<!-- #### 🛢 Databases & Cloud Hosting &nbsp; -->
 <p align="left">
 
 &emsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
@@ -29,14 +30,14 @@
  	<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   
   
-#### 🌱 Frameworks
+<!-- #### 🌱 Frameworks -->
 <p align="left">
 	
 &emsp; ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
 	 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
 
 
-#### ⚡ Graphic Designing
+<!-- #### ⚡ Graphic Designing -->
   <p align="left">
 	  &emsp; <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  </a>   
@@ -46,7 +47,7 @@
 	   <a href="#">  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/> </a>
   
 	  
-  #### 👉 Software & Tools
+ <!-- #### 👉 Software & Tools -->
  <p align="left">
 &emsp; <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
 	  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
