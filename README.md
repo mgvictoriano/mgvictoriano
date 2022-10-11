@@ -16,18 +16,15 @@
 <!-- #### 🌐 Programming languages &nbsp; -->
 <p align="left">
 	
-&emsp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  </a>
-	<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white "/>  </a> 
- 
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; -->
 <p align="left">
 
-&emsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
-	<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white "></a>
- 	<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white "></a>
+ <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   
   
 <!-- #### 🌱 Frameworks -->
