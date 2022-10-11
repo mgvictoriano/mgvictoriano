@@ -34,7 +34,7 @@
 <!-- #### 🌱 Frameworks -->
 <p align="left">
 	
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" /> 
+<img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=white" /> 
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
