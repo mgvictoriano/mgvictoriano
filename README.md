@@ -24,23 +24,23 @@
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; -->
 <p align="left">
 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> 	
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white" /> 	
 <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white " />
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" />
 <img alt="Docke"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
- </p>
+</p>
   
 <!-- #### 🌱 Frameworks -->
 <p align="left">
 	
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=JQuery&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.JS&logoColor=white) 
+<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" /> 
+<img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
+<img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=JQuery&logoColor=white" /> 
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.JS&logoColor=white" />
 </p>
 
 <!-- #### ⚡ Graphic Designing -->
@@ -86,10 +86,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
 
-   
- <!-- &layout=compact
--->
-	  
+<br>  
+  
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 <p align="center">
 	
@@ -98,9 +96,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/mvictorianoadv/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
     
-    
 
 <br>
+
 <a><img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square)
