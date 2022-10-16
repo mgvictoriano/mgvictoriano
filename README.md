@@ -4,6 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
 
+
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About Me:  </h2>
 
 - 🌏 &nbsp; From Brazil to the world
