@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </p>
   
-<!-- #### 🛢 Databases & Cloud Hosting &nbsp; -->
+<!-- #### 🛢 Databases & Cloud Hosting &nbsp; --> 
 <p align="left">
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
