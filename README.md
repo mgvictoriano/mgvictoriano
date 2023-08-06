@@ -10,16 +10,14 @@
 - 🌏 &nbsp; From Brazil to the world
 - 💻 &nbsp; Exploring new technologies and playing some game in my leisure time 👾
 - 🎓 &nbsp; Lawyer yesterday, Software Developer today 💘
-- 📚 &nbsp; Currently learning everthing 🤣
 
 ## 🛠 &nbsp;Tech Stack:
 
 <!-- #### 🌐 Programming languages &nbsp; -->
 <p align="left">
 	
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
 </p>
   
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; --> 
