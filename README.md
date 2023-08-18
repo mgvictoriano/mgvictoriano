@@ -38,8 +38,7 @@
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=JQuery&logoColor=white" /> 
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.JS&logoColor=white" />
+
 </p>
 
 <!-- #### ⚡ Graphic Designing -->
