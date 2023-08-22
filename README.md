@@ -25,7 +25,6 @@
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white" /> 	
-<img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=Azure-devops&logoColor=white " />
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" />
 <img alt="Docke"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
 </p>
@@ -38,15 +37,12 @@
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=JQuery&logoColor=white" /> 
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.JS&logoColor=white" />
 </p>
 
 <!-- #### ⚡ Graphic Designing -->
  <p align="left">
 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> 
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
