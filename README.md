@@ -22,11 +22,10 @@
   
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; --> 
 <p align="left">
-
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white" /> 	
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" />
-<img alt="Docke"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" />
+<img alt="Hibernate"src="https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white" />
 </p>
   
 <!-- #### 🌱 Frameworks -->
@@ -34,27 +33,48 @@
 	
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=white" /> 
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
+
+
 </p>
 
+	  
+ <!-- #### 👉 Software & Tools -->
+<p align="left">
+<img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" />
+<img alt="Maven" src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven" />
+<img alt="Gradle" src="https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle" />
+<img alt="REST API" src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white" />
+<img alt="GRAPHQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white" />
+<img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p><p align="left">
+<img alt="VSCode" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code" />
+<img alt="Eclipse" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse" />
+<img alt="IntelliJ" src="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea" />
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
+<img alt="GitLab"src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img alt="Docker"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
+</p><p align="left">	
+<img alt="Clean Architecture" src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white" />
+<img alt="DDD" src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white" />
+<img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white" />
+<img alt="Kafka" src="https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white" />
+</p> 
+
+ 
 <!-- #### ⚡ Graphic Designing -->
  <p align="left">
-
+<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
 </p>
-	  
- <!-- #### 👉 Software & Tools -->
-<p align="left">
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> 
-</p> 
- 
   
   
 <!--
@@ -74,12 +94,10 @@ Here are some ideas to get you started:
 
 ## My Stats:
 
-	  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-	  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgvictoriano&theme=omni&show_icons=true)
+[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)	 
 
-[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <br>  
   
@@ -98,6 +116,6 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square)
 
-<h3><p align ="center"> Show some ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
+<h3><p align ="center"> Show some ❤️ by  🌟 my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
 
 
