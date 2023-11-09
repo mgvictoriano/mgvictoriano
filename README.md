@@ -101,5 +101,4 @@ Here are some ideas to get you started:
 <h3><p align ="center"> Show some ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
 
  
- 
-![Snake animation](https://github.com/mgvictoriano/mgvictoriano/blob/output/github-contribution-grid-snake.svg)
+
