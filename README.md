@@ -10,6 +10,7 @@
 - 🌏 &nbsp; From Brazil to the world
 - 💻 &nbsp; Exploring new technologies and playing some game in my leisure time 👾
 - 🎓 &nbsp; Lawyer yesterday, Software Developer today 💘
+[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
 
 ## 🛠 &nbsp;Tech Stack:
 
@@ -92,11 +93,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Stats:
 
-[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)	 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgvictoriano&theme=omni)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 <br>  
