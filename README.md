@@ -26,8 +26,7 @@
 <p align="left">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white" /> 	
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" />
-<img alt="Hibernate"src="https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white" />
+	
 </p>
   
 <!-- #### 🌱 Frameworks -->
@@ -35,11 +34,6 @@
 	
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=white" /> 
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
-
 
 </p>
 
