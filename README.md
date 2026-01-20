@@ -1,81 +1,139 @@
 <h1 align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  Hi, I'm Michelle Victoriano 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
-
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> About Me
-
-- 🌍 From Brazil to the world  
-- 💻 Java Software Engineer focused on backend systems and scalable architectures  
-- ⚖️ Former lawyer turned software developer — strong domain-driven mindset  
-- 🧠 Passionate about Clean Architecture, DDD and well-tested code  
-- 🚀 Experience with distributed systems, messaging and business-critical rules  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e31586&size=28&center=true&vCenter=true&width=900&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Clean+Architecture+%7C+DDD+%7C+Event-Driven;From+Brazil+to+Global+Remote+Teams+%F0%9F%8C%8D" />
+  </a>
 </p>
 
-<p align="left">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
-</p>
+---
 
-<p align="left">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-</p>
+## 👩‍💻 About Me
 
-<p align="left">
-  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-000000.svg?style=flat" />
-  <img alt="DDD" src="https://img.shields.io/badge/Domain--Driven%20Design-3C873A.svg?style=flat" />
-  <img alt="TDD" src="https://img.shields.io/badge/TDD-E34F26.svg?style=flat" />
-</p>
+Backend Software Engineer with **3+ years of experience** designing, developing, and maintaining **scalable backend systems** using **Java (8–21)** and **Spring Boot**, working with **microservices and distributed system architectures**.
 
-<p align="left">
-  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=JUnit5&logoColor=white" />
-  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-59666C.svg?style=flat" />
-</p>
+I have solid hands-on experience across the **entire software development lifecycle**, including feature development, refactoring, production support, and system evolution — always with a strong focus on **clean code, SOLID principles, Clean Architecture, and domain-driven design**.
 
-<p align="left">
-  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat&logo=apache-kafka&logoColor=white" />
-</p>
+I work frequently on **business-critical systems**, dealing with complex rules, asynchronous flows, and data consistency challenges.
 
-<p align="left">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" />
-</p>
+Background in **Law and Accountancy**, bringing strong analytical thinking, regulatory awareness, and domain understanding to complex systems.
 
-<p align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
+🌍 Open to **global remote opportunities**.
 
+---
 
+## 🛠️ Core Expertise
 
+### 🔹 Core Backend
+- Java (8–21)
+- Spring Boot
+- Backend Development
+- REST APIs
+- Microservices
+- Distributed Systems
 
+---
 
+### 🔹 Backend & Frameworks
+- Spring Data JPA
+- Hibernate
+- Flyway (database migration & versioning)
+- Apache Kafka (event-driven architectures, DLQ handling)
+- Camunda BPM  
+  - BPMN  
+  - DMN  
+  - Cockpit  
 
+---
 
-<br>  
-  
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
+### 🔹 Databases
+- PostgreSQL
+- Oracle
+- MySQL
+
+---
+
+### 🔹 Architecture & Design
+- Clean Architecture
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- Event-Driven Architecture
+- Domain Modeling
+
+---
+
+### 🔹 Quality & Testing
+- JUnit
+- Mockito
+- Jacoco
+- BDD
+- SonarQube
+- Unit, integration, and system testing
+
+---
+
+### 🔹 Observability & Monitoring
+- Kibana (logs & APM)
+- Dynatrace
+- Elasticsearch
+- Application Monitoring
+- Structured Logging
+
+---
+
+### 🔹 Dev Practices & Environment
+- Linux environments
+- Agile methodologies
+  - Scrum
+  - Kanban
+- Production support & system evolution
+
+---
+
+### 🔹 AI-Assisted Development
+- Practical experience using **LLMs (ChatGPT, Windsurf)** to support:
+  - Development
+  - Testing
+  - Debugging
+  - Architectural decision-making
+
+---
+
+## 🌐 Languages
+- 🇬🇧 English  
+- 🇧🇷 Portuguese  
+- 🇪🇸 Spanish  
+- 🇫🇷 Learning French  
+
+---
+
+## 🤝 Connect with Me
+
 <p align="center">
-	
-<a href="https://github.com/mgvictoriano"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/michelle-victoriano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/mvictorianoadv/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  <a href="https://github.com/mgvictoriano">
+    <img alt="GitHub" width="9%" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michelle-victoriano/">
+    <img alt="LinkedIn" width="9%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/mvictorianoadv/">
+    <img alt="Instagram" width="9%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+  </a>
 </p>
-    
 
-<br>
+---
 
-<a><img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" alt="GitHub Badge"></a>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square)
-
-<h3><p align ="center"> Show some ❤️ by  🌟 my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mgvictoriano?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=mgvictoriano&color=orange&style=flat-square" />
+</p>
 
 
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>  [![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
+
+---
+
+<h3><p align ="center"> Show some ❤️ by 🌟 my Repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="23px"></p> </h3>
