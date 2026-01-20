@@ -5,88 +5,54 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e31586&size=29&multiline=true&width=700&lines=Welcome+To+Michelle's+GitHub+Profile+♥)](https://git.io/typing-svg)
 
 
-##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About Me:  </h2>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> About Me
 
-- 🌏 &nbsp; From Brazil to the world
-- 💻 &nbsp; Exploring new technologies and playing some game in my leisure time 👾
-- 🎓 &nbsp; Lawyer yesterday, Software Developer today 💘
-  
-[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
+- 🌍 From Brazil to the world  
+- 💻 Java Software Engineer focused on backend systems and scalable architectures  
+- ⚖️ Former lawyer turned software developer — strong domain-driven mindset  
+- 🧠 Passionate about Clean Architecture, DDD and well-tested code  
+- 🚀 Experience with distributed systems, messaging and business-critical rules  
 
-## 🛠 &nbsp;Tech Stack:
-
-<!-- #### 🌐 Programming languages &nbsp; -->
 <p align="left">
-	
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="38" height="38"/> 
-</p>
-  
-<!-- #### 🛢 Databases & Cloud Hosting &nbsp; --> 
-<p align="left">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white" /> 	
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
-	
-</p>
-  
-<!-- #### 🌱 Frameworks -->
-<p align="left">
-	
-<img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=white" /> 
-<img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55"/>
 </p>
 
-	  
- <!-- #### 👉 Software & Tools -->
 <p align="left">
-<img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" />
-<img alt="Maven" src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven" />
-<img alt="Gradle" src="https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle" />
-<img alt="REST API" src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white" />
-<img alt="GRAPHQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white" />
-<img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p><p align="left">
-<img alt="VSCode" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code" />
-<img alt="Eclipse" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse" />
-<img alt="IntelliJ" src="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea" />
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
-<img alt="GitLab"src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img alt="Docker"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
-</p><p align="left">	
-<img alt="Clean Architecture" src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white" />
-<img alt="DDD" src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white" />
-<img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white" />
-<img alt="Kafka" src="https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white" />
-</p> 
-
- 
-<!-- #### ⚡ Graphic Designing -->
- <p align="left">
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
 </p>
-  
-  
-<!--
-**mgvictoriano/mgvictoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-000000.svg?style=flat" />
+  <img alt="DDD" src="https://img.shields.io/badge/Domain--Driven%20Design-3C873A.svg?style=flat" />
+  <img alt="TDD" src="https://img.shields.io/badge/TDD-E34F26.svg?style=flat" />
+</p>
+
+<p align="left">
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=JUnit5&logoColor=white" />
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-59666C.svg?style=flat" />
+</p>
+
+<p align="left">
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat&logo=apache-kafka&logoColor=white" />
+</p>
+
+<p align="left">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" />
+</p>
+
+<p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
+
 
 
 
