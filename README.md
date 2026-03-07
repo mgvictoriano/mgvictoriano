@@ -25,88 +25,32 @@ Background in **Law and Accountancy**, bringing strong analytical thinking, regu
 
 ---
 
+
 ## 🛠️ Core Expertise
 
-### 🔹 Core Backend
-- Java (8–21)
-- Spring Boot
-- Backend Development
-- REST APIs
-- Microservices
-- Distributed Systems
+| 🔹 Core Backend | 🔹 Backend & Frameworks | 🔹 Databases | 🔹 Architecture & Design |
+|---|---|---|---|
+| Java (8–21) | Spring Data JPA | PostgreSQL | Clean Architecture |
+| Spring Boot | Hibernate | Oracle | SOLID Principles |
+| Backend Development | Flyway | MySQL | Domain-Driven Design (DDD) |
+| REST APIs | Apache Kafka (DLQ) | | Event-Driven Architecture |
+| Microservices | Camunda BPM | | Domain Modeling |
+| Distributed Systems | BPMN / DMN / Cockpit | | |
 
----
-
-### 🔹 Backend & Frameworks
-- Spring Data JPA
-- Hibernate
-- Flyway (database migration & versioning)
-- Apache Kafka (event-driven architectures, DLQ handling)
-- Camunda BPM  
-  - BPMN  
-  - DMN  
-  - Cockpit  
-
----
-
-### 🔹 Databases
-- PostgreSQL
-- Oracle
-- MySQL
-
----
-
-### 🔹 Architecture & Design
-- Clean Architecture
-- SOLID Principles
-- Domain-Driven Design (DDD)
-- Event-Driven Architecture
-- Domain Modeling
-
----
-
-### 🔹 Quality & Testing
-- JUnit
-- Mockito
-- Jacoco
-- BDD
-- SonarQube
-- Unit, integration, and system testing
-
----
-
-### 🔹 Observability & Monitoring
-- Kibana (logs & APM)
-- Dynatrace
-- Elasticsearch
-- Application Monitoring
-- Structured Logging
-
----
-
-### 🔹 Dev Practices & Environment
-- Linux environments
-- Agile methodologies
-  - Scrum
-  - Kanban
-- Production support & system evolution
-
----
-
-### 🔹 AI-Assisted Development
-- Practical experience using **LLMs (ChatGPT, Windsurf)** to support:
-  - Development
-  - Testing
-  - Debugging
-  - Architectural decision-making
-
----
+| 🔹 Quality & Testing | 🔹 Observability & Monitoring | 🔹 Dev Practices & Environment | 🔹 AI-Assisted Development |
+|---|---|---|---|
+| JUnit | Kibana (logs & APM) | Linux environments | ChatGPT/Claude |
+| Mockito | Dynatrace | Scrum / Kanban | Windsurf |
+| Jacoco | Elasticsearch | Production support | Development & Testing |
+| BDD | Application Monitoring | System evolution | Debugging |
+| SonarQube | Structured Logging | | Architectural decisions |
+| Unit / Integration / System | | | |
 
 ## 🌐 Languages
-- 🇬🇧 English  
-- 🇧🇷 Portuguese  
-- 🇪🇸 Spanish  
-- 🇫🇷 Learning French  
+
+| 🇬🇧 English | 🇧🇷 Portuguese | 🇪🇸 Spanish | 🇫🇷 French (Learning) |
+|---|---|---|---|
+
 
 ---
 
