@@ -80,14 +80,13 @@ Background in **Law and Accountancy**, bringing strong analytical thinking, regu
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>  [![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
 
- <picture>                                                                                   
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgv
-  ictoriano/mgvictoriano/output/github-contribution-grid-snake-dark.svg" />                   
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mg
-  victoriano/mgvictoriano/output/github-contribution-grid-snake.svg" />                       
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com
-  /mgvictoriano/mgvictoriano/output/github-contribution-grid-snake.svg" />                    
-  </picture>  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgvictoriano/mgvictoriano/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgvictoriano/mgvictoriano/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mgvictoriano/mgvictoriano/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
