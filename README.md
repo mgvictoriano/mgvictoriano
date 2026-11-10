@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-Backend Software Engineer with **3+ years of experience** designing, developing, and maintaining **scalable backend systems** using **Java (8–21)** and **Spring Boot**, working with **microservices and distributed system architectures**.
+Backend Software Engineer with **4+ years of experience** designing, developing, and maintaining **scalable backend systems** using **Java (8–21)** and **Spring Boot**, working with **microservices and distributed system architectures**.
 
 I have solid hands-on experience across the **entire software development lifecycle**, including feature development, refactoring, production support, and system evolution — always with a strong focus on **clean code, SOLID principles, Clean Architecture, and domain-driven design**.
 
